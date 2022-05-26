@@ -1,5 +1,5 @@
 class TiledPlatform extends Phaser.Scene {
-    constructor() {
+    constructor() { 
         super("tiledPlatformScene");
 
         // variables and settings
